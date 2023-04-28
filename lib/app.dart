@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:yaru/yaru.dart' as yaru;
-import 'package:houston/home_page.dart';
+import 'package:houston/screens/dashboard_screen.dart';
 
 class Houston extends StatelessWidget {
   const Houston({super.key});
