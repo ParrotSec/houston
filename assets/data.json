@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "category": "Information Gathering"
+  },
+  {
+    "id": 2,
+    "category": "Vulnerability Analysis"
+  },
+  {
+    "id": 3,
+    "category": "Web Application Analysis"
+  },
+  {
+    "id": 4,
+    "category": "Exploitation Analysis"
+  },
+  {
+    "id": 5,
+    "category": "Maintaining Access"
+  },
+  {
+    "id": 6,
+    "category": "Post Exploitation"
+  },
+  {
+    "id": 7,
+    "category": "Password Attacks"
+  },
+  {
+    "id": 8,
+    "category": "Wireless Testing"
+  },
+  {
+    "id": 9,
+    "category": "Sniffing & Spoofing"
+  },
+  {
+    "id": 10,
+    "category": "Digital Forensics"
+  },
+  {
+    "id": 11,
+    "category": "Automotive"
+  },
+  {
+    "id": 12,
+    "category": "Reverse Engineering"
+  },
+  {
+    "id": 13,
+    "category": "Reporting Tools"
+  }
+]
